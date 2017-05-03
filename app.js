@@ -39,6 +39,10 @@
             App = _.defaults(App, _.omit(old_app, 'init_callbacks'));
         }
 
+        if (root.Khoai) {
+            root.Khoai.App = App;
+        }
+
         root.App = App;
     }
 }(this, function (_, EventEmitter) {
