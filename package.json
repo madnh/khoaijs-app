@@ -2,7 +2,6 @@
   "name": "khoaijs-element",
   "version": "0.0.1",
   "description": "",
-  "main": "element.js",
   "directories": {
     "doc": "docs"
   },
@@ -11,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/madnh/khoaijs-element.git"
+    "url": "https://github.com/madnh/khoaijs-app.git"
   },
   "keywords": [
     "KhoaiJS",
-    "KhoaiJS Element"
+    "KhoaiJS App"
   ],
   "author": "MaDnh <dodanhmanh@gmail.com>",
   "license": "MIT",
