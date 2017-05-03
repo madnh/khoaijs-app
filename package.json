@@ -1,6 +1,6 @@
 {
-  "name": "khoaijs-element",
-  "version": "0.0.1",
+  "name": "khoaijs-app",
+  "version": "0.0.2",
   "description": "",
   "directories": {
     "doc": "docs"
@@ -18,7 +18,7 @@
   ],
   "author": "MaDnh <dodanhmanh@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/madnh/khoaijs-element",
+  "homepage": "https://github.com/madnh/khoaijs-app",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
