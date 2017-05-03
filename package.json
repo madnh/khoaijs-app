@@ -1,0 +1,33 @@
+{
+  "name": "khoaijs-element",
+  "version": "0.0.1",
+  "description": "Simple DOM element util functions",
+  "main": "element.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madnh/khoaijs-element.git"
+  },
+  "keywords": [
+    "KhoaiJS",
+    "KhoaiJS Element"
+  ],
+  "author": "MaDnh <dodanhmanh@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/madnh/khoaijs-element",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "mocha": "^3.0.2",
+    "chai": "^3.5.0",
+    "expect.js": "^0.3.1"
+  }
+}
