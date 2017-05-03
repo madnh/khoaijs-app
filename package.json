@@ -1,7 +1,7 @@
 {
   "name": "khoaijs-element",
   "version": "0.0.1",
-  "description": "Simple DOM element util functions",
+  "description": "",
   "main": "element.js",
   "directories": {
     "doc": "docs"
